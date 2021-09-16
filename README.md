@@ -1,2 +1,2 @@
-# ECE444-Lab1
+# Amy Cao
 ECE444 Software Engineering Lab 1 UofT
